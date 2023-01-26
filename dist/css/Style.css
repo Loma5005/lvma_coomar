@@ -1,0 +1,32 @@
+p{
+  color: #155903;
+  font-family: Dialog;
+  font-size: 18px;
+  background-color: lemonchiffon;
+
+}
+button{
+  color: red;
+  padding: 15px;
+  background-color: beige;
+  text-align: center;
+  font-size: 16px;
+  border: 0;
+  text-align: center;
+  margin: 20px;
+}
+td,th{
+  border: 2px solid black;
+  font-family: "DejaVu Sans";
+  padding: 10px;
+  text-align: center;
+  color: #128C7E;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #b3d4fc;
+ }
+
+
+
